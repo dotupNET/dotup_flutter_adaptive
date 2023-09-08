@@ -1,7 +1,9 @@
 name: dotup_flutter_adaptive
-description: A new Flutter package project.
+description: Adaptive and responive UIs based on device, platform or screen size
+homepage: https://dotup.de
+repository: https://github.com/dotupNET/dotup_flutter_adaptive
+publisher: dotup IT solutions - Peter Ullrich
 version: 1.0.0
-homepage:
 
 environment:
   sdk: ">=2.18.0 <4.0.0"
